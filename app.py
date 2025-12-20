@@ -8,12 +8,12 @@ import time
 
 
 st.set_page_config(
-    page_title="Vision Wizard+",
+    page_title="Vision Blaze+",
     page_icon="🧠",
     layout="wide"
 )
 
-st.title("🧠 Vision Wizard+ : Interactive Computer Vision Analysis Platform")
+st.title("🧠 Vision Blaze+ : Interactive Computer Vision Analysis Platform")
 
 
 
